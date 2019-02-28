@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47951" started-at="2019-02-28T15:21:58Z" finished-at="2019-02-28T15:22:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47951" started-at="2019-02-28T15:21:58Z" finished-at="2019-02-28T15:22:46Z">
+      <class name="com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage">
+        <test-method status="PASS" signature="beforeAllClassesStare()[pri:0, instance:com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage@604ed9f0]" name="beforeAllClassesStare" is-config="true" duration-ms="22" started-at="2019-02-28T10:21:58Z" finished-at="2019-02-28T10:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllClassesStare -->
+        <test-method status="PASS" signature="beforeEachTestStart()[pri:0, instance:com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage@604ed9f0]" name="beforeEachTestStart" is-config="true" duration-ms="4664" started-at="2019-02-28T10:21:58Z" finished-at="2019-02-28T10:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method status="PASS" signature="callMethods()[pri:0, instance:com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage@604ed9f0]" name="callMethods" duration-ms="38078" started-at="2019-02-28T10:22:02Z" finished-at="2019-02-28T10:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callMethods -->
+        <test-method status="PASS" signature="afterEachTestEnd()[pri:0, instance:com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage@604ed9f0]" name="afterEachTestEnd" is-config="true" duration-ms="5153" started-at="2019-02-28T10:22:40Z" finished-at="2019-02-28T10:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestEnd -->
+        <test-method status="PASS" signature="afterAllTestCompleted()[pri:0, instance:com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage@604ed9f0]" name="afterAllTestCompleted" is-config="true" duration-ms="0" started-at="2019-02-28T10:22:46Z" finished-at="2019-02-28T10:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCompleted -->
+      </class> <!-- com.OrangeHRM.ObjectMapProject.OrangeHRM_CallMethodPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
